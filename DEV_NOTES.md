@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Added type hints to helper functions
 - Reorganised test fixtures
+
+## 2026-06-06
+- Refactored module structure for clarity
+- Consolidated duplicate helper functions
