@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Fixed minor edge case in input handling
 - Pinned dependency versions for reproducibility
+
+## 2026-06-13
+- Added basic retry logic for network requests
+- Fixed off-by-one error in loop
